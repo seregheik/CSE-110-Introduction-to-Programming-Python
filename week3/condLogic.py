@@ -1,0 +1,1 @@
+price = input('how much did you pay? ')
