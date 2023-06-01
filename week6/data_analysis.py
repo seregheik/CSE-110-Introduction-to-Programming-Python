@@ -1,3 +1,8 @@
+# author: Osasere Ikponmwosa
+
+# for creativity i added an option for the user to select country as an additional 
+# option for seeing data
+
 max_life_expectancy = -1
 overall_max_life_expectancy = -1
 overall_min_life_expectancy = float('inf')
