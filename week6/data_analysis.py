@@ -1,6 +1,3 @@
-
-
-
 max_life_expectancy = -1
 overall_max_life_expectancy = -1
 overall_min_life_expectancy = float('inf')
